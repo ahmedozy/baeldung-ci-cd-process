@@ -9,5 +9,7 @@ public class BaeldungCiCdProcessApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BaeldungCiCdProcessApplication.class, args);
 	}
+	
+	//a comment to be pushed
 
 }
